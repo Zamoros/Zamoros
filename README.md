@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Image](https://github.com/user-attachments/assets/49e2c7ae-cb72-44cb-8f07-769ba42474fe)
+
 <!--
 **Zamoros/Zamoros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
