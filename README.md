@@ -2,6 +2,10 @@
 
 [![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamoros)](https://github.com/Zamoros/github-readme-stats) -->
+
+<!-- ![Zamoros GitHub stats](https://github-readme-stats.vercel.app/api?username=Zamoros&show_icons=true&theme=dark) -->
+
 <!-- ![Image](https://github.com/user-attachments/assets/49e2c7ae-cb72-44cb-8f07-769ba42474fe) -->
 
 <!--
